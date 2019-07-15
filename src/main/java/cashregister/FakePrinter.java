@@ -1,9 +1,7 @@
 package cashregister;
 
-class Printer {
-
-    public void print(String printThis) {
-
+public class FakePrinter {
+    public Object process() {
         throw new UnsupportedOperationException("Not Implemented");
     }
 }
